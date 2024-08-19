@@ -1,17 +1,17 @@
 <h1 align="center"> This base was created by no-name tech </h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/7fba1ad2920b3f745b885.jpg]([[https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)](https://telegra.ph/file/dc401d2c40b761b6c8e10.jp))" width="360" height="360"/>
+<img src="[https://telegra.ph/file/7fba1ad2920b3f745b885.jpg]([[https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)](https://telegra.ph/file/dc401d2c40b761b6c8e10.jp))" width="360" height="360"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/Samue-l1"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Samue-l1"><img title="Author" src="[[https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Samue-l1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
-<a href="https://github.com/Samue-l1/Dagger-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Dagger-Bot?&style=social"></a>
+<a href="https://github.com/Samue-l1?tab=followers"><img title="Followers" src="[https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)"></a>
+<a href="https://github.com/Samue-l1/Dagger-Bot/stargazers/"><img title="Stars" src="[https://img.shields.io/github/stars/Samue-l1/Dagger-Bot?&style=social](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)"></a>
 <a href="https://github.com/Samue-l1/Dagger-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
-<a href="https://github.com/Samue-l1/Dagger-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Samue-l1/Dagger-Bot/watchers"><img title="Watching" src="https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg"></a>
 </p>
 </a>
 </p>  
