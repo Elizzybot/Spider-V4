@@ -1,7 +1,7 @@
-<h1 align="center"> This base was created by King Sam </h1>
+<h1 align="center"> This base was created by no-name tech </h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/7fba1ad2920b3f745b885.jpg" width="360" height="360"/>
+<img src="[https://telegra.ph/file/7fba1ad2920b3f745b885.jpg](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)" width="360" height="360"/>
 </p>
 
 <p align="center">
@@ -69,9 +69,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 * [Mamang Adhiraj](https://github.com/adiwajshing)
 
-* [King Sam](https://github.com/Samue-l1)
+* [no-name tech](https://github.com/elizzybot)
 
 ## Contact Me
   
 * [Telegram](@k_i_n_g_s_a_m)
-* [Whatsapp Direct Message](https://api.whatsapp.com/send?phone=+254104301695)
+* [Whatsapp Direct Message](https://api.whatsapp.com/send?phone=+2347038494997)
