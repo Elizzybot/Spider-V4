@@ -1,7 +1,7 @@
 <h1 align="center"> This base was created by no-name tech </h1>
 
 <p align="center">
-<img src="[https://telegra.ph/file/7fba1ad2920b3f745b885.jpg]([https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg))" width="360" height="360"/>
+<img src="[https://telegra.ph/file/7fba1ad2920b3f745b885.jpg]([[https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)](https://telegra.ph/file/dc401d2c40b761b6c8e10.jp))" width="360" height="360"/>
 </p>
 
 <p align="center">
