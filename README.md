@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Samue-l1"><img title="Author" src="[[https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)"></a>
+<a href="https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg"><img title="Author" src="[[https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Samue-l1?tab=followers"><img title="Followers" src="[https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social](https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg)"></a>
